@@ -1,2 +1,1 @@
-# javascript-practice
- practicing javascript 
+4 exercises to practice javascript made by Rocketseat's "Discovery" classes, a free online course.
